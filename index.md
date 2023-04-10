@@ -2,15 +2,15 @@
 Hi, I'm Kevin Wong, a programmer with some experience in **C++** and **Java**. I'm also interested in video games, reading, and Cyber Security.
 
 Here are some links to bigger images of my PC.
-[PCPic1](./CSE-110-Screenshots-REPO/PXL_20230410_015130234.jpg)
-[PCPic2](./CSE-110-Screenshots-REPO/PXL_20230410_015138664.jpg)
+[PCPic1](./Screenshots/PXL_20230410_015130234.jpg)
+[PCPic2](./Screenshots/PXL_20230410_015138664.jpg)
 
 ## **Pictures**
 ![My Picture](https://user-images.githubusercontent.com/114199299/230802828-c45e54ef-7613-43f1-accc-a8bb0e2c790c.jpg)
 
-![PC Pic 1](CSE-110-Screenshots-REPO/PXL_20230410_015130234.jpg)
+![PC Pic 1](Screenshots/PXL_20230410_015130234.jpg)
 
-![PC Pic 2](CSE-110-Screenshots-REPO/PXL_20230410_015138664.jpg)
+![PC Pic 2](Screenshots/PXL_20230410_015138664.jpg)
 
 # **Table of Contents:**
 - [**Table of Contents:**](#table-of-contents)
