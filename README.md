@@ -3,3 +3,6 @@ My favorite programming language is probably C++, although I'll admit I don't ha
 
 [Here's a link to my website](https://glekko.github.io/My-User-Page/)
 
+Physical link:
+https://glekko.github.io/My-User-Page/
+
