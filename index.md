@@ -7,6 +7,7 @@ Here are some links to bigger images of my PC.
 
 ## **Pictures**
 ![My Picture](https://user-images.githubusercontent.com/114199299/230802828-c45e54ef-7613-43f1-accc-a8bb0e2c790c.jpg)
+
 # **Table of Contents:**
 - [**Table of Contents:**](#table-of-contents)
     - [**Some More Background**](#some-more-background)
